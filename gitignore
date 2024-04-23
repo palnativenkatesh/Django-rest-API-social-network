@@ -1,0 +1,5 @@
+#IDE files
+.idea/
+
+db.sqlite3
+creds.py
